@@ -1,0 +1,15 @@
+% !TeX root = ../main.tex
+
+\clearpage
+\makenomenclature
+
+\setlength{\nomitemsep}{-\parskip} % 减小行与行之间的间距，Baseline skip between items
+\renewcommand{\nomname}{主要符号表} % 更改标题名称，默认的标题是“Nomenclature”
+\renewcommand{\nomlabel}[1]{\hfil #1\hfil\hfil} % 设计符号的左右间距
+\setnomtableformat{ll}
+
+\printnomenclature[4cm]
+
+% 在正文中的任意为都可以标题
+ \nomenclature{$\mu$}{Gauss~随机变量~$Z$~的均值}
+ \nomenclature{$\sigma^2$}{Gauss~随机变量~$Z$~的方差}
