@@ -4,11 +4,10 @@
 
 # XJTU_Thesis_LaTeX_2021
 - ## Thesis LaTeX Template of Xi'an Jiaotong University
+  - #### Master: Master Thesis LaTeX Template of Xi'an Jiaotong University
+  - #### PhD: Doctoral Thesis LaTeX Template of Xi'an Jiaotong University
 
- - #### Master: Master Thesis LaTeX Template of Xi'an Jiaotong University
- - #### PhD: Doctoral Thesis LaTeX Template of Xi'an Jiaotong University
-
-### 本模板使用教程亦可见于：<b>[硕博学位论文 $\LaTeX$ 模板及其使用教程](https://zhuanlan.zhihu.com/p/388415963 "硕博学位论文 LaTeX 模板及其使用教程")</b>
+#### 本模板使用教程亦可见于：<b>[硕博学位论文 $\LaTeX$ 模板及其使用教程](https://zhuanlan.zhihu.com/p/388415963 "硕博学位论文 LaTeX 模板及其使用教程")</b>
 
 # 前言
 
@@ -205,6 +204,6 @@ makeindex %.nlo -s nomencl.ist -o %.nls
 
 - ## **在前一次按“F1”编译完成前再次按了一下“F1”启动编译而导致异常**
 此报错是因为第二次编译运行时，前一次编译尚未完成，导致两次生成的中间文件之间发生了同名冲突。这种情况是无法通过修改代码的方式解决的，必须要在保留源文件的前提下删除运行过程中生成的中间文件。
-在根目录文件夹中有一个 clean.bat 文件可以一键解决该问题，只需要双击该文件，即可删除所有编译时所生成的中间文件。
+在根目录文件夹中有一个 `clean.bat` 文件可以一键解决该问题，只需要双击该文件，即可删除所有编译时所生成的中间文件。
 只要代码中没有语法错误，清理完中间文件后再次按 `F1` 键即可顺利运行（注意：由于所有中间文件都删除了，主要符号表和参考文献也需要按照前面给的方法重新生成一遍）。
 
