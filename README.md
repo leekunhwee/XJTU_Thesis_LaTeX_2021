@@ -7,7 +7,7 @@
   - #### Master: Master Thesis LaTeX Template of Xi'an Jiaotong University
   - #### PhD: Doctoral Thesis LaTeX Template of Xi'an Jiaotong University
 
-#### 本模板使用教程亦可见于：<b>[硕博学位论文 $\LaTeX$ 模板及其使用教程](https://zhuanlan.zhihu.com/p/388415963 "硕博学位论文 LaTeX 模板及其使用教程")</b>
+#### 本模板使用教程亦可见于：<a href="https://zhuanlan.zhihu.com/p/388415963"  target="_blank"> 硕博学位论文 $\LaTeX$ 模板及其使用教程 </a>
 
 
 
@@ -41,9 +41,9 @@
 
 这两款软件均为跨平台免费软件，所以本教程不仅适用于 `Windows` 系统，同样也适用于 `MacOS` 和 `Linux` 系统。这两款软件的下载地址分别为：
 
-- ### [MikTeX 下载链接](https://miktex.org/download "MikTeX 下载链接")
+- ### <a href="https://miktex.org/download" target="_blank"> MikTeX 下载链接 </a>
 
-- ### [Texmaker 下载链接](https://www.xm1math.net/texmaker/download.html "Texmaker 下载链接")（Windows 用户推荐下载后缀为 .msi 的版本）
+- ### <a href="https://www.xm1math.net/texmaker/download.html" target="_blank"> Texmaker 下载链接 </a>（Windows 用户推荐下载后缀为 .msi 的版本）
 
  <em>由于安装过程较为简单，这里不再详细叙述，只需要注意安装路径中不要出现中文或其他特殊字符。</em>
 
