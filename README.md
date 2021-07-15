@@ -1,5 +1,5 @@
 <div align = "center">
-<img src = ".\image\latex-project-logo.png"  width = "600" height = "228">
+<img src = ".\image\latex-project-logo.png"  width=60%>
 </div>
 
 # XJTU_Thesis_LaTeX_2021
@@ -24,7 +24,7 @@
 
 点击此页面上名为 `Code` 的绿色按钮，然后点击 `Download ZIP` 即可下载本模板的源文件，如下图所示。
 <div align = "center">
-<img src = ".\image\download.png"  width = "591" height = "271" alt = "GitHub 上模板源文件的下载界面" title = "GitHub 上模板源文件的下载界面">
+<img src = ".\image\download.png"  width=60% alt = "GitHub 上模板源文件的下载界面" title = "GitHub 上模板源文件的下载界面">
 </div>
 <p align = "center"><b>GitHub 上模板源文件的下载界面</b></p>
 
@@ -53,19 +53,19 @@
 
 将 `MikTeX` 中的软件包更新到最新版本，方法是以管理员模式打开 `MiKTeX Console` ：
 <div align = "center">
-<img src = ".\image\MikTeX.png"  width = "412" height = "194" alt = "以管理员模式打开 MiKTeX Console" title = "以管理员模式打开 MiKTeX Console">
+<img src = ".\image\MikTeX.png"  width=60% alt = "以管理员模式打开 MiKTeX Console" title = "以管理员模式打开 MiKTeX Console">
 </div>
 <p align = "center"><b>以管理员模式打开 MiKTeX Console</b></p>
 
 然后点击 `Check for updates`：
 <div align = "center">
-<img src = ".\image\check.png"  width = "410" height = "252" alt = "检测更新" title = "检测更新">
+<img src = ".\image\check.png" width=60% alt = "检测更新" title = "检测更新">
 </div>
 <p align = "center"><b>检测更新</b></p>
 
 最后选择 `Updates`，点击其中的 `Update now`，等待其更新完毕即可：
 <div align = "center">
-<img src = ".\image\update.png"  width = "410" height = "252" alt = "现在更新" title = "现在更新">
+<img src = ".\image\update.png"  width=60% alt = "现在更新" title = "现在更新">
 </div>
 <p align = "center"><b>现在更新</b></p>
 
@@ -75,7 +75,7 @@
 
 `Texmaker` 打开后的界面如下：
 <div align = "center">
-<img src = ".\image\texmaker.png"  width = "532" height = "259" alt = "Texmaker 软件界面" title = "Texmaker 软件界面">
+<img src = ".\image\texmaker.png"  width=60% alt = "Texmaker 软件界面" title = "Texmaker 软件界面">
 </div>
 <p align = "center"><b>Texmaker 软件界面</b></p>
 
@@ -93,7 +93,7 @@ $\LaTeX$ 与 `MS Word` 最大的不同之处就在于其文本与效果是分离
  - **文本 -> PDF**：这是一个可以自定义的快捷键，通过`Ctrl+，`或者“`选项`-`配置Texmaker`”可以打开配置界面，在右下角一个很隐蔽的地方有一个选项，如下图：
 
 <div align = "center">
-<img src = ".\image\switch.png"  width = "461" height = "266" alt = "切换定位快捷键" title = "切换定位快捷键">
+<img src = ".\image\switch.png"  width=60% alt = "切换定位快捷键" title = "切换定位快捷键">
 </div>
 <p align = "center"><b>切换定位快捷键</b></p>
 
@@ -106,7 +106,7 @@ $\LaTeX$ 与 `MS Word` 最大的不同之处就在于其文本与效果是分离
 
 由于学位论文中包含中文，所以这里需要用 `XeLaTeX` 进行编译，为了实现快速编译，将快速构建命令选定为 `XeLaTeX + View PDF`，如下图：
 <div align = "center">
-<img src = ".\image\run.png"  width = "461" height = "266" alt = "编译运行快捷键" title = "编译运行快捷键">
+<img src = ".\image\run.png"  width=60% alt = "编译运行快捷键" title = "编译运行快捷键">
 </div>
 <p align = "center"><b>编译运行快捷键</b></p>
 
@@ -125,7 +125,7 @@ makeindex %.nlo -s nomencl.ist -o %.nls
 
 如下图所示：
 <div align = "center">
-<img src = ".\image\command.png"  width = "708" height = "282" alt = "主要符号表快捷键" title = "主要符号表快捷键">
+<img src = ".\image\command.png"  width=60% alt = "主要符号表快捷键" title = "主要符号表快捷键">
 </div>
 <p align = "center"><b>主要符号表快捷键</b></p>
 
@@ -143,7 +143,7 @@ makeindex %.nlo -s nomencl.ist -o %.nls
 
 与主要符号表类似，参考文献和主体内容也不是同步编辑的，其默认的快捷键是 `F11`，如下图所示：
 <div align = "center">
-<img src = ".\image\reference.png"  width = "461" height = "266" alt = "参考文献快捷键" title = "参考文献快捷键">
+<img src = ".\image\reference.png"  width=60% alt = "参考文献快捷键" title = "参考文献快捷键">
 </div>
 <p align = "center"><b>参考文献快捷键</b></p>
 
@@ -164,7 +164,7 @@ makeindex %.nlo -s nomencl.ist -o %.nls
 
 设置完主文档后，按 `F1` 键可以进行编译，并展示生成的 PDF 文档。注意：第一次运行时，系统会提示需要安装一些宏包以供编译使用，如下图：
 <div align = "center">
-<img src = ".\image\package.png"  width = "463" height = "356" alt = "宏包自动下载" title = "宏包自动下载">
+<img src = ".\image\package.png" width=60% alt = "宏包自动下载" title = "宏包自动下载">
 </div>
 <p align = "center"><b>宏包自动下载</b></p>
 
@@ -198,7 +198,7 @@ makeindex %.nlo -s nomencl.ist -o %.nls
 注意：这里拿 `tabularx.sty` 举个例子，如果出现其他类似于 not found 的情况，亦可以参考本方法，举一反三。
 如果运行后消息框提示错误 `! LaTeX Error: File 'tabularx.sty' not found.`，说明此时系统缺少一个名称为 `tabularx.sty` 的宏包。需要做的就是以管理员模式打开 `MiKTeX Console`，然后点击 `宏包` 或 `packages`，在搜索栏中输入 `tabularx.sty` 并回车搜索，搜索结果如下图：
 <div align = "center">
-<img src = ".\image\search.png"  width = "410" height = "252" alt = "搜索宏包" title = "搜索宏包">
+<img src = ".\image\search.png"  width=60% alt = "搜索宏包" title = "搜索宏包">
 </div>
 <p align = "center"><b>搜索宏包</b></p>
 选择第一个，右击点击 `安装宏包` 即可解决该问题。
