@@ -1,6 +1,8 @@
 <div align = "center">
-<img src = ".\image\latex-project-logo.png"  width=60%>
+<img src = ".\image\latex-project-logo.png"  width=80%>
 </div>
+
+<br>
 
 # XJTU_Thesis_LaTeX_2021
 - ## Thesis LaTeX Template of Xi'an Jiaotong University
