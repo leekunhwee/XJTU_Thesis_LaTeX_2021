@@ -4,6 +4,15 @@
 
 <br>
 
+## Table of Contents:
+
+-  [前言](#前言)
+-  [软件安装与环境配置](#软件安装与环境配置)
+-  [编译运行方法](#编译运行方法)
+-  [常见问题及解决方法](#常见问题及解决方法)
+
+<br>
+
 # XJTU_Thesis_LaTeX_2021
 - ## Thesis LaTeX Template of Xi'an Jiaotong University
   - #### Master: Master Thesis LaTeX Template of Xi'an Jiaotong University
