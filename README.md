@@ -2,6 +2,14 @@
 <img src = ".\image\latex-project-logo.png"  width=80%>
 </div>
 
+
+# XJTU_Thesis_LaTeX_2021
+- ## Thesis LaTeX Template of Xi'an Jiaotong University
+  - #### Master: Master Thesis LaTeX Template of Xi'an Jiaotong University
+  - #### PhD: Doctoral Thesis LaTeX Template of Xi'an Jiaotong University
+
+#### 本模板使用教程亦可见于：<b>[硕博学位论文 $\LaTeX$ 模板及其使用教程](https://zhuanlan.zhihu.com/p/388415963 "硕博学位论文 LaTeX 模板及其使用教程")</b>
+
 <br>
 
 ## Table of Contents:
@@ -12,14 +20,6 @@
 -  [常见问题及解决方法](#常见问题及解决方法)
 
 <br>
-
-# XJTU_Thesis_LaTeX_2021
-- ## Thesis LaTeX Template of Xi'an Jiaotong University
-  - #### Master: Master Thesis LaTeX Template of Xi'an Jiaotong University
-  - #### PhD: Doctoral Thesis LaTeX Template of Xi'an Jiaotong University
-
-#### 本模板使用教程亦可见于：<b>[硕博学位论文 $\LaTeX$ 模板及其使用教程](https://zhuanlan.zhihu.com/p/388415963 "硕博学位论文 LaTeX 模板及其使用教程")</b>
-
 
 
 
@@ -41,8 +41,6 @@
 
 
 将下载得到的模板源文件压缩包解压到一个文件夹中。（注意：该文件夹的路径中千万不要出现中文或其他特殊字符，否则将给论文的编撰带来极大的不便。）
-
-
 
 # 软件安装与环境配置
 
