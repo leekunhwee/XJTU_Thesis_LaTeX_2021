@@ -3,7 +3,7 @@
 </div>
 
 
-# XJTU_Thesis_LaTeX_2021
+# 西安交通大学硕博论文LaTeX模板 XJTU_Thesis_LaTeX_2021
 - ## Thesis LaTeX Template of Xi'an Jiaotong University
   - #### Master: Master Thesis LaTeX Template of Xi'an Jiaotong University
   - #### PhD: Doctoral Thesis LaTeX Template of Xi'an Jiaotong University
@@ -12,7 +12,7 @@
 
 <br>
 
-## Table of Contents:
+## 目录 Table of Contents:
 
 -  [前言](#前言)
 -  [软件安装与环境配置](#软件安装与环境配置)
