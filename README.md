@@ -54,7 +54,7 @@
 
 - ### [MikTeX 下载链接](https://miktex.org/download "MikTeX 下载链接")
 
-- ### [Texmaker 下载链接](https://www.xm1math.net/texmaker/download.html "Texmaker 下载链接")
+- ### [Texmaker 下载链接](https://www.xm1math.net/texmaker/download.html "Texmaker 下载链接") （初次下载的 Windows 用户建议下载后缀为 .msi 的版本）
 
  <em>由于安装过程较为简单，这里不再详细叙述，只需要注意安装路径中不要出现中文或其他特殊字符。</em>
 
